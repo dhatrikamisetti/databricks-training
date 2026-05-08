@@ -1,15 +1,44 @@
-# Databricks Training
+# 🚀 Databricks Training
 
-This repository contains my daily learning and practice work from Databricks/Data Engineering training.
+Welcome to my Data Engineering training repository. This repository documents my learning journey through structured, hands-on practice as part of the Databricks training program.
 
-## Structure
-- Week-wise folders
-- Day-wise practice inside each week
-- SQL queries and outputs included
+---
 
-## Tools Used
+## 👩‍💻 Author
+**Dhatri Kamisetti**
+
+---
+
+## 📌 Overview
+This repository is organized in a **week-wise and day-wise format** to systematically track my progress and learning.
+
+It contains:
+- SQL practice queries
+- Data processing concepts
+- Databricks-related learning
+
+---
+
+## 🧰 Tech Stack & Tools
+
 - DB Fiddle
 - SQL
+- GitHub (for version control and documentation)
 
-## Goal
-To build strong fundamentals in SQL and Data Engineering concepts.
+---
+
+## 📚 Highlights
+
+- Structured and clean folder organization
+- Queries written with proper comments and explanations
+- Real-world dataset practice (Employee, Department, Project)
+- Focus on readability and best practices
+
+---
+## ✨ Conclusion
+
+This repository reflects my consistent effort to build strong foundations in Data Engineering. It showcases my ability to organize, document, and implement data-related concepts effectively.
+
+---
+
+⭐ *Stay tuned for more updates as I progress through the training!*
